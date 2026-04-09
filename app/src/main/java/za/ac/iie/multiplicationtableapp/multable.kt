@@ -22,7 +22,7 @@ class multable : AppCompatActivity() {
         var multiplytable=findViewById<TextView>(R.id.textreceiver)
 // start with the header and add two new lines
         var tabledisplay : String = "$tableNumber x table\n\n"
-// initiating the while to calculate until 20
+// initiating the while loop to calculate until 20
         var counter = 1
         while ( counter <= 20) { // check the control  variable
             val answer = tableNumber * counter
