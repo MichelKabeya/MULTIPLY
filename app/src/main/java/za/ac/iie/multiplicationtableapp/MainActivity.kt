@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         }
         // added a variable to hold the multiplication button
         val buttoMul = findViewById<Button>(R.id.calcbtt)
-        /* watched a video on youtube of how to make the button corners rounded and
+        /* watched a video on YouTube of how to make the button corners rounded and
         modify the color from the code instead of the attributes
         from : https://youtu.be/zdy6X6t3BpQ
          */
